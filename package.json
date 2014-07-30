@@ -1,0 +1,30 @@
+{
+  "name": "bnp-test",
+  "version": "0.0.1",
+  "description": "just a little game.",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "~1.0.14",
+    "socket.io": "~0.9.16",
+    "logfmt": "^1.1.2",
+    "express": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeliangyin/bnp-test"
+  },
+  "keywords": [
+    "199079828abc"
+  ],
+  "author": "yin zeliang",
+  "license": "supelec",
+  "bugs": {
+    "url": "https://github.com/zeliangyin/bnp-test/issues"
+  },
+  "homepage": "https://github.com/zeliangyin/bnp-test"
+}
